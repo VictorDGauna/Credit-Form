@@ -6,8 +6,9 @@ tinymce.init({
   statusbar: false,
   toolbar:
     "forecolor | bold | italic |underline| media | image | emoticons | fullscreen",
-  plugins: "image, emoticons, media , fullscreen",
+  plugins: "image, emoticons, media , fullscreen, autoresize",
   height: 200,
+  
 });
 //  const formulario = document.getElementById('formulario');
 //  formulario.addEventListener('submit', (e) => {
