@@ -5,7 +5,7 @@ tinymce.init({
   menubar:false,
   statusbar: false,
   toolbar:
-    "forecolor | bold | italic |underline| media | image | emoticons | fullscreen",
+    "forecolor | bold | italic |underline | fullscreen | media | image | emoticons",
   plugins: "image, emoticons, media , fullscreen, autoresize",
   minheight: 200,
   minwidth:400,
